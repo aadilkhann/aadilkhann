@@ -1,4 +1,3 @@
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/817/87/825/programmer-coder-admin-administrator-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
