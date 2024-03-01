@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadilkhann&label=Profile%20views&color=0e75b6&style=flat" alt="aadilkhann" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adil_khann_" target="blank"><img src="https://img.shields.io/twitter/follow/adil_khann_?logo=twitter&style=for-the-badge" alt="adil_khann_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adil_dev" target="blank"><img src="https://img.shields.io/twitter/follow/adil_khann_?logo=twitter&style=for-the-badge" alt="adil_khann_" /></a> </p>
 
 - 🌱 I’m currently learning **Android Devlopment**
 
