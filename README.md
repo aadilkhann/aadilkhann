@@ -1,7 +1,10 @@
 <h1 align="center">Hello 👋, I'm Adil Khan</h1>
 <h3 align="center">Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div style="padding: 20px 0;">
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=aadilkhann&label=Profile%20views&color=0e75b6&style=flat" alt="aadilkhann" /> 
