@@ -1,25 +1,31 @@
-<h1 align="center">Hi 👋, I'm Adil Khan</h1>
-<h3 align="center">A Software Developer</h3>
+<h1 align="center">Hello 👋, I'm Adil Khan</h1>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadilkhann&label=Profile%20views&color=0e75b6&style=flat" alt="aadilkhann" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=aadilkhann&label=Profile%20views&color=0e75b6&style=flat" alt="aadilkhann" /> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/adil_dev" target="blank"><img src="https://img.shields.io/twitter/follow/adil_khann_?logo=twitter&style=for-the-badge" alt="adil_khann_" /></a> </p>
+<p align="left"> 
+    <a href="https://twitter.com/adil_dev" target="blank">
+        <img src="https://img.shields.io/twitter/follow/adil_khann_?logo=twitter&style=for-the-badge" alt="adil_khann_" />
+    </a> 
+</p>
 
+- 📫 **Contact me:** [khan01970@gmail.com](mailto:khan01970@gmail.com)
 
-- 📫 How to reach me **khan01970@gmail.com**
-
-- 📄 **Know about my experiences:** [View Resume](https://drive.google.com/file/d/1HeLdoJLxWKoeivbTUi_bY7giqAasV8do/view?usp=sharing)
-
+- 📄 **Explore my experiences:** [View Resume](https://drive.google.com/file/d/1HeLdoJLxWKoeivbTUi_bY7giqAasV8do/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adil_khann_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adil_khann_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khan01970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khan01970" height="30" width="40" /></a>
+    <a href="https://twitter.com/adil_khann_" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adil_khann_" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/khan01970" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khan01970" height="30" width="40" />
+    </a>
 </p>
-
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -73,9 +79,9 @@
     </a>
 </p>
 
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadilkhann&show_icons=true&locale=en&layout=compact" alt="aadilkhann" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadilkhann&show_icons=true&locale=en&layout=compact" alt="aadilkhann" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadilkhann&show_icons=true&locale=en" alt="aadilkhann" /></p>
 
