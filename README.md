@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 <div style="padding: 20px 0;">
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <!--  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 </div>
 
 
