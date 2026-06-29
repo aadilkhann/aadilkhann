@@ -1,7 +1,7 @@
 <h1 align="center">Adil Khan</h1>
 
 <p align="center">
-Software Engineer | Backend • Distributed Systems • AI
+Software Engineer specializing in Backend Engineering, Distributed Systems, and AI-powered applications.
 </p>
 
 <p align="center">
@@ -14,15 +14,24 @@ Software Engineer | Backend • Distributed Systems • AI
 
 ## About Me
 
-I'm a software engineer with a primary focus on backend engineering and distributed systems, and an increasing focus on deep learning and AI applications.
+I'm a Software Engineer specializing in backend engineering, distributed systems, and AI-powered applications. I enjoy building scalable software, designing reliable architectures, and solving complex engineering problems.
 
-I enjoy building reliable backend services, designing scalable architectures, and solving complex engineering problems. Recently, I've been working on integrating large language models, experimenting with deep learning, and building AI-powered applications that combine modern ML techniques with production-ready backend systems.
+My primary experience is with Java and Spring Boot, where I build REST APIs, backend services, and event-driven systems. Recently, I've been expanding into Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents, combining intelligent systems with production-ready backend architectures.
 
-I'm particularly interested in system design, AI infrastructure, distributed computing, and building software that scales from prototype to production.
+Outside of work, I continuously sharpen my engineering skills through system design, algorithmic problem solving, and building projects that bridge backend engineering with AI.
 
 ---
 
-## Core Competencies
+## Highlights
+
+- Software Engineer focused on scalable backend systems and distributed architectures.
+- Currently building AI-powered applications using LLMs, RAG, and modern Deep Learning techniques.
+- Strong interest in system design, performance optimization, and clean software architecture.
+- Active LeetCode practitioner with a solid foundation in Data Structures & Algorithms.
+
+---
+
+## Technical Expertise
 
 ### Backend Engineering
 
@@ -42,7 +51,7 @@ I'm particularly interested in system design, AI infrastructure, distributed com
 - Prompt Engineering
 - AI Application Development
 
-### Data & Infrastructure
+### Databases & Messaging
 
 - PostgreSQL
 - MySQL
@@ -56,34 +65,75 @@ I'm particularly interested in system design, AI infrastructure, distributed com
 - Docker
 - Kubernetes
 - AWS
-- CI/CD
 - Linux
+- CI/CD
 
 ### Engineering
 
 - System Design
+- Object-Oriented Design
+- SOLID Principles
+- Design Patterns
 - Performance Optimization
 - Clean Architecture
-- Design Patterns
 - Data Structures & Algorithms
-- Problem Solving
+
+---
+
+## Achievements
+
+
+- Successfully qualified LG's **Data Structures & Algorithms Assessment**.
+- Active LeetCode practitioner solving interview-level algorithmic challenges.
+- Continuously building backend and AI projects to deepen expertise in distributed systems and machine learning.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1s1y0QxB0lAvkRjCYQDXQqnP-Myg9k9tD/view?usp=sharing">
+    View Data Structures & Algorithms Assessment Certificate
+  </a>
+</p>
 
 ---
 
 ## Current Focus
 
-- Building AI-native applications
-- Deep Learning fundamentals and model development
-- Production-ready LLM systems
+- AI-native application development
+- Deep Learning and model training
+- Production-ready LLM and RAG systems
 - Distributed backend architectures
-- High-performance APIs
+- High-performance Java services
+- AI infrastructure and inference pipelines
+
+---
+
+## LeetCode
+
+I enjoy solving algorithmic problems to strengthen my understanding of efficient software design and scalable systems.
+
+<p align="center">
+  <a href="https://leetcode.com/u/adil-dev/">
+    <img src="https://leetcard.jacoblin.cool/adil-dev?theme=dark&font=Ubuntu&ext=contest" />
+  </a>
+</p>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aadilkhann&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aadilkhann&hide_border=true"/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadilkhann&theme=github-dark&hide_border=true" />
+</p>
+
 </div>
+
+---
+
+<p align="center">
+Building scalable software, exploring AI, and continuously learning.
+</p>
